@@ -32,11 +32,3 @@ print(id_machine(usr_letters ,usr_numbers, usr_symbols))
 
 
 
-
-## passwords:
-
-
-#tester = B@~B3~3h
-#new_github = UH'ViFFJf{V3F_F'''4U
-
-#touormill = 4YmY1*;YAYA5Ym;7
